@@ -1,29 +1,57 @@
 # Smart RoadSoS
 
-Smart RoadSoS is a Flutter-based road safety application that automatically detects accidents and sends SOS alerts with live GPS location.
+A Flutter-based road safety application that automatically detects road accidents and sends emergency SOS alerts with live GPS location to predefined contacts.
 
-## Features
+## Key Features
+
 - Automatic Accident Detection
-- Real-time Risk Classification
-- Emergency Countdown
-- WhatsApp + SMS SOS
-- Live GPS Location Sharing
-- Panic SOS
-- Simulation Mode
+- Real-Time Motion Monitoring
+- Risk Classification (SAFE / HIGH RISK / ACCIDENT)
+- Emergency Countdown with "I AM SAFE" Cancellation
+- GPS Live Location Sharing
+- WhatsApp SOS Alerts
+- SMS SOS Alerts
+- Manual Panic SOS
+- Accident Simulation Mode
+- Android APK Deployment
+
+---
 
 ## Application Screenshots
 
 ### Home Screen
-![Home Screen](assets/screenshots/home_screen.jpeg)
+![Home Screen](assets/screenshots/01_home_screen.jpeg)
 
-### Accident Detection
-![Accident Detection](assets/screenshots/accident_countdown.jpeg)
+### Accident Detection & Emergency Countdown
+![Accident Detection](assets/screenshots/02_accident_detection.jpeg)
 
-### SOS Messages
-![SOS Messages](assets/screenshots/sos_alert_messages.jpeg)
+### SOS Alert Messages
+![SOS Messages](assets/screenshots/03_sos_messages.jpeg)
 
-### Live Location
-![Live Location](assets/screenshots/live_location_maps.jpeg)
+### Live Location on Google Maps
+![Live Location](assets/screenshots/04_live_location.jpeg)
 
-### SMS Fallback
-![SMS](assets/screenshots/sms.jpeg)
+### SMS Emergency Alert
+![SMS Alert](assets/screenshots/05_sms.jpeg)
+
+---
+
+## Technology Stack
+
+- Flutter
+- Dart
+- sensors_plus
+- geolocator
+- shared_preferences
+- url_launcher
+
+---
+
+## Project Highlights
+
+- No additional hardware required
+- Smartphone-based accident detection
+- Automatic emergency notification
+- Live GPS location sharing
+- Designed for rapid road accident response
+
