@@ -1,16 +1,29 @@
-# smart_roadsos
+# Smart RoadSoS
 
-A new Flutter project.
+Smart RoadSoS is a Flutter-based road safety application that automatically detects accidents and sends SOS alerts with live GPS location.
 
-## Getting Started
+## Features
+- Automatic Accident Detection
+- Real-time Risk Classification
+- Emergency Countdown
+- WhatsApp + SMS SOS
+- Live GPS Location Sharing
+- Panic SOS
+- Simulation Mode
 
-This project is a starting point for a Flutter application.
+## Application Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### Home Screen
+![Home Screen](assets/screenshots/home_screen.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Accident Detection
+![Accident Detection](assets/screenshots/accident_countdown.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### SOS Messages
+![SOS Messages](assets/screenshots/sos_alert_messages.jpeg)
+
+### Live Location
+![Live Location](assets/screenshots/live_location_maps.jpeg)
+
+### SMS Fallback
+![SMS](assets/screenshots/sms.jpeg)
