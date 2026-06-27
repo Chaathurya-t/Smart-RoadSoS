@@ -222,14 +222,4 @@ RoadSoS – AI in Road Safety
 
 **Team Road Sentinel**
 
-PSG Institute of Technology and Applied Research
-
-Computer Science and Engineering
-
 ---
-
-# ⭐ Support
-
-If you found this project useful, consider giving this repository a **⭐ Star**.
-
-Thank you for visiting **Smart RoadSoS**.
